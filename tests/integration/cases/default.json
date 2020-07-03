@@ -1,0 +1,10 @@
+{
+  "system": {
+    "timezone": "America/Los_Angeles",
+    "locale": "en_US.UTF-8",
+    "charset": "UTF-8",
+    "keymap": "us",
+    "hostname": "archstrap",
+    "root_password": "hunter2"
+  }
+}
