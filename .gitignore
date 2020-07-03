@@ -1,0 +1,5 @@
+.vagrant/
+/build/
+/archstrap.spec
+/dist/
+__pycache__/
